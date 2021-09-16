@@ -1,5 +1,5 @@
 # The-Snoopy-Shadows
-Text Adventure Game Developusing Python essentials including:  Strings and String Manipulation User-Defined Functions and Objects (variables) User Input and Input Handling Conditional and Nested Conditional Statements (if/elif/else) Loops (for/while) Controlling for Errors
+Text Adventure Game developed using Python essentials including:  Strings and String Manipulation User-Defined Functions and Objects (variables) User Input and Input Handling Conditional and Nested Conditional Statements (if/elif/else) Loops (for/while) Controlling for Errors
 
 Introduction:
     'The Snoopy Shadows' - the investigator agency is looking for really smart, intelligent and sharp-witted detectives.
